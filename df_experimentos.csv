@@ -5,3 +5,5 @@ e40d838a-a28b-41be-96d0-5db9c2b89968,2026-02-01 00:00:00,2,0,_ficut3_feateng1_fi
 0     09      12     091     999  366.2    420.4 -29.9  -39.7  1.0"
 f05bb8b3-e04e-48de-8c47-46682c642b8c,2026-02-01 00:00:00,2,0,_ficut3_feateng1_fi_cut_reduc0.001_fev_26,0.3,20,2,9,7,7,2,4,13,3,2,4,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=5, test_size=None)",1,1,1,"  CO_MES CO_PRDT CO_GEO2 CO_GEO3   rmse  rmse_lr    r2  r2_lr  acc
 0     09      12     091     999  364.1    420.4 -29.5  -39.7  1.0"
+73989baa-226d-4196-b782-f0c44a8fb128,2026-02-01 00:00:00,2,0,_ficut3_feateng1_fi_cut_reduc0.001_fev_26,0.3,20,2,9,7,7,2,4,7,7,2,4,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=5, test_size=None)",1,1,1,"  CO_MES CO_PRDT CO_GEO2 CO_GEO3   rmse  rmse_lr    r2  r2_lr  acc
+0     09      12     091     999  369.2    420.4 -30.4  -39.7  1.0"
