@@ -1,0 +1,9 @@
+names,importances,experiment_id,CO_MES,var_target
+"('04~mes', '38~prdt', '091~geo2', '999~geo3', 'kt')",0.04034958032309884,545ccc4c-54bd-4dce-bd77-6a362a8de13a,03~mes,kt
+"('03~mes', '47~prdt', '091~geo2', '999~geo3', 'kt')",0.03946821009078804,545ccc4c-54bd-4dce-bd77-6a362a8de13a,03~mes,kt
+"('06~mes', '31~prdt', '032~geo2', '999~geo3', 'kt')",0.03350793272820915,545ccc4c-54bd-4dce-bd77-6a362a8de13a,03~mes,kt
+"('08~mes', '10~prdt', '022~geo2', '999~geo3', 'kt')",0.03254079870708738,545ccc4c-54bd-4dce-bd77-6a362a8de13a,03~mes,kt
+"('01~mes', '27~prdt', '041~geo2', '999~geo3', 'kt')",0.025254763731578395,545ccc4c-54bd-4dce-bd77-6a362a8de13a,03~mes,kt
+ANO,0.0,545ccc4c-54bd-4dce-bd77-6a362a8de13a,03~mes,oc
+ANO,0.0,116d8ee6-454a-4fa8-92f3-a015142bac0d,09~mes,kt
+ANO,0.0,116d8ee6-454a-4fa8-92f3-a015142bac0d,09~mes,oc
